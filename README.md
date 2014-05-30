@@ -4,7 +4,7 @@ Gitvs version (i)
 This program wraps git to make it more like cvs.
 Dr Owain Kenway
 
-Where it is distributed, it is done so under my special 5 clause,
+Where it is distributed, it is done so under the 4 clause,
 BSD-style license (see LICENSE.txt)
 
 Install
