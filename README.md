@@ -19,6 +19,4 @@ make && make install
 Usage
 -----
 
-The gitvs executable takes input from stdin.
-
 ./gitvs [commit] [update]
